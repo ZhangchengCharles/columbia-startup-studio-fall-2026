@@ -1,0 +1,9 @@
+# ZeroOne: CallIt weekly update, November 6, 2026
+
+CallIt lets a private group make predictions and see who called them correctly. Last week (October 24-30), we connected the redesigned app to the backend. Members could use their own groups, calls, answers and results instead of sample content. They could create a group, share its invitation and make a call. A beta review found 63 issues. We began fixing unsafe handling of user text and invalid group settings before inviting people outside the team to try the app.
+
+This week (October 31-November 6), we completed the eleven-part beta fix plan. Changes included private suggestions, five-second answer Undo, manager tasks, and better phone and tablet dialogs. Comments now stay inside the call screen. The landing page, sign-up and app now share [call-it.app](https://call-it.app), so people can register and start using the app immediately. Email verification is optional. We also completed three usability sessions. Next, we propose making the waiting-for-manager message, creation button and required fields clearer, then testing whether people need less help. Desktop navigation and media improvements are also planned.
+
+As of November 5 at 18:57 New York time, the development lead reported 11 registered accounts after excluding designated team test accounts, from the hosted authentication table. Nine were email-confirmed, and one had signed in during the previous seven days. This is an account count; participation in the core prediction flow has not yet been measured for those accounts.
+
+The main usability blocker is that people still need help creating a call or understanding whether it has been published. All three were uncertain about publication at some point, and two needed help during creation. All three completed answering and explained whose picks were visible. We still need to test the proposed changes and whether groups return.
