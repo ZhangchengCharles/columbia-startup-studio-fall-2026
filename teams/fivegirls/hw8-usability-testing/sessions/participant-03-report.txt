@@ -1,0 +1,95 @@
+Usability Testing Report — NYC Restroom Finder
+
+Task 1: Find a Suitable Restroom
+
+User Actions:
+
+1. The user opened the map, navigated through it and successfully located themselves.
+2. The user randomly opened a Central Park restroom listing described as Pilgrim Hill and Conservatory Water.
+3. The user noticed that the Condition section showed three issues reported.
+4. The user expanded Condition and then expanded the reported issues to read the information.
+
+User Experience and Observations:
+
+The user successfully navigated the map and located themselves. Opening a restroom listing and finding the Condition section did not require reported assistance.
+
+After expanding the reported issues, the user found the text disorganized and difficult to understand. The issue count was visible, but the expanded information did not clearly explain the reported problems.
+
+The session establishes a problem with the presentation of the issue text. The displayed count does not establish that the user independently verified three defects at the restroom.
+
+Suggested Improvements:
+
+* Present reported issues as separate, clearly labeled items instead of disorganized text.
+* Use short descriptions that explain each reported problem and show its observation date when available.
+* Keep the relationship between the issue count and the expanded reports clear.
+
+Task 2: Save a Restroom for Later
+
+User Actions:
+
+1. The user saved the restroom.
+2. The user successfully reopened the saved restroom.
+
+User Experience and Observations:
+
+Saving and reopening worked successfully. The session did not identify a problem with this workflow.
+
+The starting account state and any signup steps were not specified, so this result does not establish that a new-account signup was tested.
+
+Suggested Improvements:
+
+* Preserve the successful save-and-reopen workflow.
+* Continue checking the workflow when a new user must sign in before saving.
+
+Task 3: Share Useful Information
+
+User Actions:
+
+1. The user opened Report a problem through Amenities.
+2. The user selected Public access for Entry permission.
+3. The user looked for a Save button but could not find one.
+4. The user saw Share but did not understand what the action meant.
+5. After guidance from the facilitator, the user clicked Share.
+6. The user returned to check Amenities but did not see the added information there.
+
+User Experience and Observations:
+
+The user found a way to contribute an entry-permission update, but could not complete the submission action independently. The Share label did not clearly communicate that it was the action needed to submit the information.
+
+After receiving guidance and clicking Share, the user expected the information to appear in Amenities. Its absence from that section left the user confused about what had happened.
+
+The session does not establish whether the update was saved, required review, appeared elsewhere or failed. Entry permission and amenities also describe different kinds of information. The interface needs to make the submission result and the location of the updated field understandable.
+
+Suggested Improvements:
+
+* Give the action a clear label matching its behavior, such as Submit report or Save changes.
+* Clearly confirm whether a submission succeeded, is awaiting review or failed.
+* Show which field was submitted and where the user can find it afterward.
+* Check entry-permission submission, any review step and the resulting card or detail display as one workflow.
+
+Overall Findings
+
+What Worked Well
+
+The user navigated the map, located themselves and opened a Central Park restroom listing. The Condition issue count was discoverable, and saving and reopening worked successfully.
+
+Main Usability Issues
+
+The expanded issue text was difficult to interpret even though the user successfully found it. Reaching the information did not help the user clearly understand the reported problems.
+
+The contribution workflow also required assistance. The user expected a Save action, did not understand Share, and could not see the submitted information where expected afterward.
+
+Recommended Changes and Rationale
+
+Observation	Recommended Change	Why
+Expanded reported issues were disorganized	Use separate labeled reports with concise descriptions and available observation dates	Helps users understand what was reported
+Saving and reopening worked	Preserve the existing save-and-reopen workflow	Retains a successful interaction
+The user could not identify how to save an entry-permission update	Use a submission label that clearly describes the action	Reduces the need for facilitator guidance
+The update was not visible in Amenities after Share	Confirm the submission result and direct the user to the relevant field or review status	Helps users understand whether and where their contribution is available
+Submission success could not be confirmed from the visible outcome	Check the full contribution-to-display workflow	Distinguishes unclear feedback from a persistence, review or display problem
+
+Overall Assessment
+
+The user completed map navigation, self-location, saving and reopening successfully. The main difficulties were understanding expanded issue reports and completing an entry-permission contribution without guidance.
+
+The next improvements should focus on readable issue summaries, clear submission actions and visible results after contributing. Public-note and cleanliness-rating submission were not covered in this session.
