@@ -25,9 +25,3 @@ On November 6, three first-time users tried CallIt. We watched them join a group
 **What we changed.** We marked required fields, kept the group description optional, and explained what to enter in What counts.
 
 **Why.** P3's experience shows where clearer labels and guidance can help. The other sessions covered different forms or showed different results.
-
-## Limits and follow-up
-
-P1 received confirmation while joining and clarification while creating a suggestion. P2 was told that the interest step could be skipped. P3 received help with required fields and the waiting state. We have no timings for how long participants were stuck before we stepped in. The moderator confirmed signup for P1 and P2, and the recordings omit part of that process. P3's signup entry describes help with the group name. P3 reported understanding the product's purpose after joining a group.
-
-Browser checks covered the revised controls at phone and desktop widths using mock responses. The next first-use test should check whether participants can find New call, complete the required fields, and explain the pending state before the moderator gives any help.
