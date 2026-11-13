@@ -5,7 +5,7 @@ CallIt lets friends make predictions in a private group and see who called it af
 ## Accountability
 
 - **Build.** We clarified who can see a pending suggestion and who publishes it, made New call easier to find, and labeled required fields. We also shipped a redesigned landing page, sign-up flow, and signed-in app on November 13. The redesign went beyond the smaller changes in last week's plan.
-- **Grow.** We shared a tagged link in an apartment WeChat group on November 12. All eight launch emails to waitlist users sent successfully on November 13. We moved broader outreach to November 16 so we could check sign-up, group invitations, and the first-call flow over the weekend.
+- **Grow.** We shared a tagged link in an apartment WeChat group on November 12. All eight launch emails to waitlist users sent successfully on November 13. Emily drafted the campaign copy, prepared tracking links for each channel, and added two mobile screenshots. We moved broader outreach to November 16 so we could check sign-up, group invitations, and the first-call flow over the weekend.
 - **Analyze.** We launched the [public registration count](https://call-it.app/api/user-count). The team recorded 11 registered accounts on November 5 and 17 on November 11. The public count returned 18 on November 13. These totals cover the whole site. We still need to check visits and sign-ups from each outreach link.
 - **Research.** We compared notes from three November 6 sessions. All three participants showed some uncertainty about whether a suggestion had been published. One needed help finding required fields. We checked the fixes in a browser with simulated responses.
 
