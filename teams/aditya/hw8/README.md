@@ -22,5 +22,20 @@ Sessions over Zoom, Nov 6, recorded with consent. We tested the staging MVP: htt
 ## Session 2 ([teammate])
 Pending.
 
-## Session 3 ([teammate])
-Pending.
+## Session 3 (Lookman)
+**Tester:** [Columbia student, not on our team]
+
+**What we observed**
+- He clicked "Sign in" first, then realized: "Oh, wait, I don't have an account yet."
+- He scrolled through listings before noticing the chat search. Once he typed June–August and a $1,600 budget, he said: "Oh, that's helpful. Saves me going through everything."
+- The travel-time labels confused him: "Why does this say Columbus Circle? Is that how far away it is?"
+- After saving two places he asked, "Can I see more options?" He opened the map briefly, then compared prices and photos in the listings.
+- In Messages he asked, "Am I messaging the person renting it out?"
+- He'd use it: "Yeah, especially for summer. I'd want a few more places to choose from."
+
+**What we're changing, and why**
+- Make "Create account" the obvious choice over "Sign in"; Session 1's tester tried to sign in first too.
+- Replace or explain travel-time labels like "Columbus Circle", so people know what the line means.
+- Make it clear in Messages that you're messaging the lister, so people trust who they're talking to.
+- Surface the chat search before people start scrolling, since it's the aha moment once they find it.
+- Add more listings, since he wanted more options to choose from.
