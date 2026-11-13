@@ -1,0 +1,97 @@
+Usability Testing Report — NYC Restroom Finder
+
+Task 1: Find a Suitable Restroom
+
+User Actions:
+
+1. The user found a Starbucks restroom in the app.
+2. The user located its listed passcode and reviewed the available restroom information.
+3. The user noticed that ratings and amenity information were missing.
+
+User Experience and Observations:
+
+The user found the buttons and information intuitive. Locating the Starbucks restroom and its passcode was straightforward.
+
+The user understood missing ratings and amenities as a lack of data because the app was still in its early stage. The user did not interpret missing information as proof that the restroom was unclean or had no amenities.
+
+The user found the listed passcode, but the session account does not establish whether it was tested at the venue.
+
+Suggested Improvements:
+
+* Retain the clear navigation and straightforward presentation of restroom information.
+* Keep missing ratings and amenities clearly distinguishable from negative information.
+* Continue gathering restroom information to improve listing completeness.
+
+Task 2: Save a Restroom for Later
+
+User Actions:
+
+1. The user saved the restroom for future reference.
+2. The user confirmed that the restroom was saved.
+3. The user successfully reopened the saved restroom.
+
+User Experience and Observations:
+
+The saving workflow worked without a reported sign-in interruption. The user could confirm the saved state and reopen the restroom afterward.
+
+The supplied account does not specify whether the user was already signed in or created an account during the session. The successful save-and-reopen result therefore does not establish that a fresh-account signup was tested.
+
+Suggested Improvements:
+
+* Preserve the successful saving confirmation and reopening workflow.
+* Check the same workflow with a new participant who must sign in or create an account before saving.
+
+Task 3: Share Useful Information
+
+User Actions:
+
+1. The user submitted a new restroom request.
+2. A team member approved the request through the admin panel.
+3. The approved restroom appeared on the map.
+4. The user noticed that its hours were missing.
+5. The user returned to look for an option to add hours.
+6. The user suggested that the search returning a place's address could also return its hours.
+
+User Experience and Observations:
+
+The submission and moderator-approval workflow resulted in the new restroom appearing on the map. However, the published listing did not contain hours, leaving the contribution incomplete for someone planning a visit.
+
+The user returned to look for a way to supply the missing information. This suggests that hours entry and review should be clearer within the submission workflow.
+
+The supplied account does not establish whether hours were entered in the original request or why they were absent from the approved listing. The issue should be checked across the submission form, moderator review and published restroom card.
+
+Suggested Improvements:
+
+* Provide a clear optional field for restroom hours when submitting a new location.
+* Show submitted hours during moderator review and retain them on the approved listing.
+* Investigate whether place search can suggest editable hours alongside the address.
+* Distinguish venue opening hours from restroom hours when suggesting or displaying a schedule.
+
+Overall Findings
+
+What Worked Well
+
+The user found the controls and restroom information intuitive, located a Starbucks restroom and its passcode, and understood missing ratings and amenities as missing data. Saving was confirmed, and the saved restroom could be reopened without a reported sign-in interruption.
+
+The new-restroom request also reached the map after approval through the admin panel.
+
+Main Usability Issues
+
+The main issue was the missing hours on the approved restroom listing. The user returned to look for an hours-entry option, showing that the contribution workflow did not clearly support completing this information during the session.
+
+Missing ratings and amenities did not cause confusion for this user, although these gaps still limited the available information.
+
+Recommended Changes and Rationale
+
+Observation	Recommended Change	Why
+Restroom information and controls were intuitive	Preserve the straightforward navigation and information layout	Retains a workflow the user understood
+Missing ratings and amenities were understood as missing data	Keep unknown information distinct from negative information	Helps other users interpret incomplete listings consistently
+Saving was confirmed and the restroom could be reopened	Retain the save-and-reopen flow and test fresh sign-in separately	Preserves the successful experience while checking an untested account state
+An approved restroom appeared without hours	Check hours entry, moderator review and publication as one workflow	Helps approved listings contain the information needed to plan a visit
+The user suggested returning hours with the address	Investigate editable hours suggestions from place search	May reduce manual entry while allowing review of the correct restroom schedule
+
+Overall Assessment
+
+The user successfully found a restroom and its listed passcode, saved and reopened the location, and submitted a new restroom that appeared after moderator approval. The primary difficulty was completing the approved listing's hours, rather than finding or using the main controls.
+
+The next improvement should focus on making hours easy to provide, review and display. Public-note and cleanliness-rating submission were not covered in this session.

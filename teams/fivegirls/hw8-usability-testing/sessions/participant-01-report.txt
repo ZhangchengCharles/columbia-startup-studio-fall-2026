@@ -1,0 +1,105 @@
+Usability Testing Report — NYC Restroom Finder
+
+Task 1: Find a Suitable Restroom
+
+User Actions:
+
+1. The user opened the app and directly zoomed into Midtown Manhattan, an area the user was familiar with.
+2. The user opened the filter menu and selected two criteria: Clean and Public, since the user wanted to find a restroom that was both hygienic and publicly accessible.
+3. After applying the filters, the map displayed the message “No restroom was found.”
+4. The user returned to the filter menu and deselected “Clean,” keeping only “Public” selected.
+5. Several restroom locations appeared on the map. The user selected the Penn Station LIRR Restroom to explore its details.
+6. The user scrolled through the restroom information, including opening hours, amenities, condition, password requirements, and the “Rate and Comment” section.
+
+User Experience and Observations:
+
+The map-based navigation was intuitive. The user was able to zoom into the user's desired neighborhood and discover the filters without assistance. The filter options were easy to understand, and the interface clearly indicated which criteria were selected.
+
+However, applying both “Clean” and “Public” resulted in no available restrooms. The message “No restroom was found” did not explain whether no restrooms met both criteria or whether cleanliness information was simply unavailable for the restrooms in that area.
+
+The user decided to remove the “Clean” filter independently. Although this allowed the user to continue, the user had to compromise on one of the user's original preferences without knowing whether the displayed restrooms were actually unclean or merely lacked cleanliness ratings.
+
+The restroom detail page was informative and well-organized. The user could easily locate information about opening hours, operational status, and amenities. However, the listing reported no amenities and no user ratings, making it difficult to evaluate the restroom’s actual quality.
+
+Suggested Improvements:
+
+* Provide a more informative empty-state message explaining that no locations match the selected filters.
+* Offer an option to remove or relax individual filters directly from the empty-state screen.
+* Distinguish between restrooms that are rated unclean and restrooms with unknown cleanliness.
+* Make missing information more explicit so users can better assess how reliable a listing is.
+
+Task 2: Save a Restroom for Later
+
+User Actions:
+
+1. After viewing the Penn Station restroom details, the user decided to save the location for future reference.
+2. The user used the bookmark icon on the restroom detail page.
+3. The user completed the account sign-up process.
+4. After signing in, the user saved the restroom.
+5. The user opened the account page and located the Saved places section.
+
+User Experience and Observations:
+
+The bookmark icon was recognizable and located in an intuitive position near the top of the restroom detail page. It clearly suggested a way to save the location.
+
+Creating an account was a reasonable step for retaining saved locations across sessions. The account page was simple and clearly organized, with “Saved places” displayed as a separate section.
+
+One potential source of friction was the transition between saving a location and signing up. Requiring account creation interrupts the original task of finding a restroom, which may be inconvenient for users who need immediate access to a restroom.
+
+The “Saved places” section was easy to find, although the screenshots do not independently establish whether the user successfully reopened the saved location and returned to the map.
+
+Suggested Improvements:
+
+* Explain why account creation is required when users attempt to save a restroom.
+* Preserve the selected location throughout the sign-up process so users do not need to search for it again.
+* Provide clear confirmation when a restroom has been saved successfully.
+* Make it easy to reopen a saved restroom and navigate back to its location on the map.
+
+Task 3: Share Useful Information
+
+User Actions:
+
+While reviewing the Penn Station restroom detail page, the user scrolled down and found the Rate and Comment option. The user also noticed a “Comments by you” section on the account page.
+
+The user identified where the user would leave feedback about a restroom the user had personally visited. However, the user did not submit a review or comment during this session.
+
+User Experience and Observations:
+
+The “Rate and Comment” feature was relatively easy to discover because it was included directly on the restroom detail page. Placing this option alongside information about restroom conditions creates a logical connection between reading existing information and contributing new observations.
+
+However, because the user did not complete the feedback process, the user could not evaluate the usability of the comment form or submission experience.
+
+Suggested Improvements:
+
+* Make it clear what types of information users can contribute, such as cleanliness, accessibility, maintenance issues, or incorrect opening hours.
+* Provide guidance encouraging firsthand, recent observations.
+* Clearly indicate whether submitted comments will be published immediately or reviewed first.
+
+Overall Findings
+
+What Worked Well
+
+The app’s map-first interface made it straightforward to explore a familiar neighborhood. The filters were easy to discover, and their selected states were visually clear. Individual restroom details were presented in a structured and readable format. The bookmark icon and account navigation were also easy to recognize.
+
+Main Usability Issues
+
+The most significant issue was the lack of explanation when multiple filters produced zero results. This created uncertainty about whether suitable restrooms were unavailable or simply missing the necessary data.
+
+A second issue was the amount of incomplete restroom information. Missing ratings and amenities reduced the user's confidence when choosing a location.
+
+Finally, the account requirement introduced an additional step into the saving workflow, which could become frustrating in a time-sensitive situation.
+
+Recommended Changes and Rationale
+
+Observation	Recommended Change	Why
+Combining “Clean” and “Public” produced no results	Explain the empty state and suggest relaxing a filter	Helps users recover without trial and error
+Cleanliness data was unclear	Distinguish unknown cleanliness from negative ratings	Prevents users from interpreting missing data as poor quality
+Restroom details lacked ratings and amenities	Show data availability and encourage verified contributions	Improves transparency and confidence
+Saving required account creation	Preserve the intended save action through sign-up	Reduces interruption and repeated actions
+Feedback option was visible but not tested	Provide clear reporting categories and submission status	Makes future contributions more useful and predictable
+
+Overall Assessment
+
+The user was able to find a publicly accessible restroom in Midtown Manhattan and complete the account and saving steps. Most navigation elements were intuitive, and the user did not require assistance to locate the main features.
+
+The main difficulty was not finding the controls but understanding what the search results meant, especially when filtering produced no matches. The experience suggests that the app would benefit most from better explanations of missing data, more helpful empty states, and smoother transitions between browsing and saving locations.
